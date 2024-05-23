@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-20T10:18:12 IST" name="Default suite" finished-at="2024-05-20T10:18:13 IST" duration-ms="907">
+    <groups>
+    </groups>
+    <test started-at="2024-05-20T10:18:12 IST" name="Default test" finished-at="2024-05-20T10:18:13 IST" duration-ms="907">
+      <class name="excel.ExcelDriver">
+        <test-method signature="excelData(java.lang.String,java.lang.String)[pri:0, instance:excel.ExcelDriver@793be5ca]" started-at="2024-05-20T10:18:13 IST" name="excelData" data-provider="excelData" finished-at="2024-05-20T10:18:13 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vj@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vj@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelData -->
+        <test-method signature="excelData(java.lang.String,java.lang.String)[pri:0, instance:excel.ExcelDriver@793be5ca]" started-at="2024-05-20T10:18:13 IST" name="excelData" data-provider="excelData" finished-at="2024-05-20T10:18:13 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[msd@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[msd@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelData -->
+        <test-method signature="excelData(java.lang.String,java.lang.String)[pri:0, instance:excel.ExcelDriver@793be5ca]" started-at="2024-05-20T10:18:13 IST" name="excelData" data-provider="excelData" finished-at="2024-05-20T10:18:13 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[leo@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[leo@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelData -->
+        <test-method signature="excelData(java.lang.String,java.lang.String)[pri:0, instance:excel.ExcelDriver@793be5ca]" started-at="2024-05-20T10:18:13 IST" name="excelData" data-provider="excelData" finished-at="2024-05-20T10:18:13 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[elisa@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[elisa@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelData -->
+      </class> <!-- excel.ExcelDriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
