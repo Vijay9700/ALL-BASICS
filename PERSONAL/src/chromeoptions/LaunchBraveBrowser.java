@@ -12,7 +12,7 @@ public class LaunchBraveBrowser {
 		//pass the brave path
 		option.setBinary
 	("C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe");
-		WebDriver driver=new ChromeDriver();
+		WebDriver driver=new ChromeDriver(option);
 		driver.manage().window().maximize();
 	}
 
